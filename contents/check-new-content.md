@@ -1,9 +1,6 @@
 ---
-title: check new content
-date: 2025-09-07T21:51:59.035Z
+title: check-new-content
+date: 2025-09-07T22:09:26.094Z
 ---
 
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
+check new** values 111**
